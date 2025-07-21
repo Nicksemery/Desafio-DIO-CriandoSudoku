@@ -15,6 +15,8 @@ import static java.util.stream.Collectors.toMap;
 
 public class Main {
 
+    //teste
+
     private final static Scanner scanner = new Scanner(System.in);
 
     private static Board board;
